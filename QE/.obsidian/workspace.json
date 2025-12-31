@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "ecbc7341d6fa4e50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2091808efc794d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1263fa0fbd0711a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermodynamics/Ch 12 Thermodynamic Property Relations/Property Relations - Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Property Relations - Summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c74da308a991eda",
+    "type": "split",
+    "children": [
+      {
+        "id": "09526f6f508c74d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6f41c1bb61e19f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a177a5607b96908a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57d8ffafc746e722",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "3ba85c8e3d5f8c0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "775de0ed508ea769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a895ca80c652cfc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thermodynamics/Ch 12 Thermodynamic Property Relations/Property Relations - Summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Property Relations - Summary"
+            }
+          },
+          {
+            "id": "233bb3a0cfb466dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1e1d0d93905ddefb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f3b5d2e5a3ffe1a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a8518ad6cf30d801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1263fa0fbd0711a3",
+  "lastOpenFiles": [
+    "Thermodynamics/Ch 7 Entropy/Entropy - Summary.md",
+    "Thermodynamics/Ch 12 Thermodynamic Property Relations/Property Relations - Summary.md",
+    "Thermodynamics/Ch 6 Second Law/Second Law - Summary.md",
+    "Thermodynamics/Ch 5 Mass and Energy Analysis/Mass and Energy Analysis - Summary.md",
+    "Thermodynamics/Ch 4 Energy Analysis of a Closed System/Analysis of Closed Systems - summary.md",
+    "Thermodynamics/Ch 13 Gas Mixtures",
+    "Thermodynamics/Ch 12 Thermodynamic Property Relations",
+    "Thermodynamics/Ch 11 Refrigeration Cycles",
+    "Thermodynamics/Ch 10 Vapor and Combined power Cycles",
+    "Thermodynamics/Ch 9 Gas Power Cycles",
+    "Thermodynamics/Ch 8 Exergy",
+    "Thermodynamics/Ch 7 Entropy",
+    "Thermodynamics/Ch 6 Second Law",
+    "Thermodynamics/Ch 5 Mass and Energy Analysis",
+    "Thermodynamics/Ch 2 Energy Basics",
+    "Thermodynamics/Ch 1 Intro/Pure Substances - summary.md",
+    "Thermodynamics/Ch 2 Energy Basics/Energy Basics - summary.md",
+    "Thermodynamics/Ch 2 Energy Basics/Energy Basics.md",
+    "Thermodynamics/Ch 1 Intro/Introduction and Basic Concepts.md",
+    "Math/Matrix Diagonalisation.md",
+    "Math/Div Grad Curl.md",
+    "Thermodynamics/The Maxwell Relations.md",
+    "Thermodynamics/Efficiency.md",
+    "Thermodynamics/Carnot Cycle.md",
+    "Thermodynamics/Air Standard Cycle.md",
+    "Thermodynamics/Adiabatic Flame Temperature.md",
+    "Math/Laplace Transforms.md",
+    "Math/Transfer Functions.md",
+    "Heat and Mass Transfer/Modes of Heat Transfer.md",
+    "Math/Fourier Transforms.md",
+    "Math/Convolution.md",
+    "Heat and Mass Transfer/Radiation Exchange.md",
+    "Heat and Mass Transfer/Kirchoff Law.md",
+    "Heat and Mass Transfer/Internal FLow.md",
+    "Heat and Mass Transfer/Kirchoff's Law.md",
+    "Heat and Mass Transfer/Convection.md"
+  ]
+}
