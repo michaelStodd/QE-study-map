@@ -1,5 +1,14 @@
-A substance that has a fixed chemical composition through out is called a **pure substance**. In the liquid phase, a substance that is not about to vaporize is called a **compressed** or **subcooled liquid**. In the gas phase, a sub stance that is not about to condense is called a **superheated vapor**. During a phase-change process, the temperature and pressure of a pure substance are dependent properties. At a given pressure, a substance changes phase at a fixed temperature, called the **saturation temperature**. Likewise, at a given temperature, the pressure at which a substance changes phase is called the **saturation pressure**. During a boiling process, both the liquid and the vapor phases coexist in equilibrium, and under this condition the liquid is called **saturated liquid** and the vapor **saturated vapor**.
+## Initial Definitions
+* A substance that has a fixed chemical composition through out is called a **pure substance**. 
+* In the liquid phase, a substance that is not about to vaporize is called a **compressed** or **subcooled liquid**. 
+* In the gas phase, a sub stance that is not about to condense is called a **superheated vapor**.
+* During a phase-change process, the temperature and pressure of a pure substance are dependent properties. 
+	* At a given pressure, a substance changes phase at a fixed temperature, called the **saturation temperature**. 
+	* Likewise, at a given temperature, the pressure at which a substance changes phase is called the **saturation pressure**. 
+	* During a boiling process, both the liquid and the vapor phases coexist in equilibrium, and under this condition the liquid is called **saturated liquid** and the vapor **saturated vapor**.
 
+---
+## Mass Fraction
 In a saturated liquid–vapor mixture, the mass fraction of vapor is called the quality and is expressed as
 $$
 \chi = \frac{m_{vapor}}{m_{total}}
@@ -16,13 +25,19 @@ y \approx y_{f@T}
 $$
 where $y$ stands for $\nu$, $u$, or, $h$.
 
-The state beyond which there is no distinct vaporization process is called the critical point. At supercritical pressures, a substance gradually and uniformly expands from the liquid to vapor phase. All three phases of a substance coexist in equilibrium at states along the triple line characterized by triple-line temperature and pressure. The compressed liquid has lower  $\nu$, $u$, and, $h$ values than the saturated liquid at the same $T$ or $P$. Likewise, superheated vapor has higher $\nu$, $u$, and, $h$ values than the saturated vapor at the same $T$ or $P$. 
+---
+## Critical point
+The state beyond which there is no distinct vaporization process is called the **critical point**. At supercritical pressures, a substance gradually and uniformly expands from the liquid to vapor phase. All three phases of a substance coexist in equilibrium at states along the triple line characterized by triple-line temperature and pressure. The compressed liquid has lower  $\nu$, $u$, and, $h$ values than the saturated liquid at the same $T$ or $P$. Likewise, superheated vapor has higher $\nu$, $u$, and, $h$ values than the saturated vapor at the same $T$ or $P$. 
 
+---
+## Equation of State
 Any relation among the pressure, temperature, and specific volume of a substance is called an **equation of state**. The simplest and best-known equation of state is the ideal gas equation of state, given as
 $$
 P\nu = RT
 $$
 where $R$ is the gas constant.  Real gases exhibit ideal-gas behavior at relatively low pressures and high temperatures.
+
+### Compressibility factor $Z$
 
 The deviation from ideal-gas behavior can be properly accounted for by using the **compressibility factor** $Z$ , defined as
 $$
@@ -37,6 +52,9 @@ where $P_{cr}$ and $T_{cr}$ are the critical pressure and temperature, respectiv
 $$
 \nu_R = \frac{\nu_{actual}}{RT_{cr}/P_{cr}}
 $$
+
+### other Eq. State
+
 The $P$-$\nu$-$T$ behavior of substances can be represented more accurately by more complex equations of state. Three of the best known are
 
 * ***van der Vaals**: $(P + \frac{a}{\nu^2})(\nu - b)=RT$
