@@ -4,9 +4,8 @@
 
 ---
 ## Mass flow rate 
-$$
-\dot m = \rho \dot \nu =\rho A_c V_{avg}
-$$
+
+$$\dot m = \rho \dot \nu =\rho A_c V_{avg}$$
 * $\rho\to$ density
 * $\dot\nu\to$ volume flow rate
 * $A_c\to$ Cross sectional area
@@ -16,17 +15,15 @@ $$
 ## Energy flow rate
 
 **Energy flow rate** is given in a similar manor to total anergy $E$
-$$
-\dot E=\dot m e
-$$
+
+$$\dot E=\dot m e$$
 
 ---
 ## Mechanical Energy
 
 **Mechanical Energy**: the form of energy that can be converted to mechanical work completely and directly by a mechanical device such as an ideal turbine. 
-$$
-e_{mech} = \frac{P}{\rho} + \frac{V^2}{2} + gz
-$$
+
+$$e_{mech} = \frac{P}{\rho} + \frac{V^2}{2} + gz$$
 * It is expressed on a unit mass basis
 * $P/\rho \to$ *flow energy* per unit mass; pressure over density
 * $V^2/2\to$ *kinetic energy* per unit mass; V is velocity
@@ -51,9 +48,8 @@ Energy can cross the boundaries of a closed system by:
 ## First Law of Thermodynamics
 
 The *first law of thermodynamics* is essentially an expression of the *conservation of energy* principle, also called the energy balance. The general mass and energy balances for any system undergoing any process can be expressed as
-$$
-\Delta E_{system} = E_{in} - E_{out}
-$$
+
+$$\Delta E_{system} = E_{in} - E_{out}$$
 
 
 ---
@@ -61,28 +57,24 @@ $$
 ## Efficiency 
 
 The efficiencies of various devices are defined as 
-$$
-\eta = \frac{E_{out}}{E_{in}}
-$$
+
+$$\eta = \frac{E_{out}}{E_{in}}$$
 * Pump: receives shaft work and transfers it to the fluid 
-$$
-\eta_{pump} = \frac{\Delta \dot E_{mech,fluid}}{\dot W_{shaft,in}}
-$$
+
+$$\eta_{pump} = \frac{\Delta \dot E_{mech,fluid}}{\dot W_{shaft,in}}$$
 * Turbine: converts the mechanical energy of a fluid to shaft work 
-$$
-\eta_{turb} = \frac{\dot W_{shaft,out}}{|\Delta \dot E_{mech,fluid}|}
-$$
+
+$$\eta_{turb} = \frac{\dot W_{shaft,out}}{|\Delta \dot E_{mech,fluid}|}$$
 
 A similar relationship follows for an electrical system
 * Motor: converts electrical energy to rotating mechanical energy 
-$$
-\eta_{mot} = \frac{\dot W_{shaft,out}}{\dot W_{elect,in}}
-$$
+
+$$\eta_{mot} = \frac{\dot W_{shaft,out}}{\dot W_{elect,in}}$$
 * Generator: converts rotating mechanical energy to electrical energy 
+
 $$\eta_{gen} = \frac{\dot W_{elect,out}}{\dot W_{shaft,in}}$$
 
 Combined, or overall efficiencies, multiply
-$$
-\eta_{pump/motor} = \eta_{pump}\eta_{motor}=\frac{\Delta \dot E_{mech,fluid}}{\dot W_{elect,in}}
-$$
+
+$$\eta_{pump/motor} = \eta_{pump}\eta_{motor}=\frac{\Delta \dot E_{mech,fluid}}{\dot W_{elect,in}}$$
 
